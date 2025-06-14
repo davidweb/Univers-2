@@ -22,7 +22,7 @@ Une application web PWA pour explorer des univers générés procéduralement av
 
 ```bash
 # Cloner le projet
-git clone <repository-url>
+git clone https://github.com/davidweb/Univers-2.git
 cd univers-explorer
 
 # Installer les dépendances
