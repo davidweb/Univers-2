@@ -119,5 +119,6 @@ MIT License - voir le fichier LICENSE pour plus de détails.
 Les contributions sont les bienvenues ! Consultez les issues ouvertes ou proposez de nouvelles fonctionnalités.
 
 ---
-
+Projet développé par **Neorak**.
 **Explorez l'infini, une tuile à la fois** ✨
+
